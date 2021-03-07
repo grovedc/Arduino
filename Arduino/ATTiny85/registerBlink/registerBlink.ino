@@ -38,3 +38,17 @@ void loop() {
 //  bitSet(PINB, led);
   delay(sleep);
 }
+
+
+/* Blink Reset pin */
+
+//int led = 5; // Reset pin
+//
+//void setup() {                
+//  DDRB = 1<<led;     
+//}
+//
+//void loop() {
+//  PINB = 1<<led;
+//  delay(1000);
+//}
