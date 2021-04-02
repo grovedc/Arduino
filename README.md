@@ -3,10 +3,6 @@ Code for the little devices, and some not so little.
 
 ## ATTiny85
 
-Code for the little devices, and some not so little.
-
-ATTiny85
-
 What's not to like about these little guys?  In an 8 pin DIP, you get:
 
     1) a microprocessor
@@ -28,7 +24,7 @@ means that you can use 18650 batteries for power.
 
 You don't get console by default, so debug print statements aren't useful.  (I
 know that it is possibe to configure a soft serial port).  You are also going to
-be programing in C/C++ as this device is way to small to host Python.
+be programing in C/C++ as this device is way too small to host Python.
 
 ## XIAO
 
