@@ -22,7 +22,6 @@
 unsigned long Start_Time = 0;
 unsigned long End_Time = 0;
 
-
 // normally 0, but 1 for digi attiny85 boards
 #define LED 0
 
